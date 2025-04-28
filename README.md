@@ -1,2 +1,1 @@
-# Classification-of-Remote-Sensing-Images
-The goal of this group project is to develop and compare different computer vision methods for classifying aerial scenes from remote sensing images. Such a task has many real-world applications in urban planning, environmental monitoring and disaster response by enabling automated analysis of large-scale satellite and drone imagery. 
+# The dataset to be used in this group project is available from Kaggle (https://www.kaggle.com/datasets/ankit1743/skyview-an-aerial-landscape-dataset).  It contains 15 landscape categories, with each category containing 800 high-quality images. It is thus a well-balanced dataset and the task is to develop and evaluate computer vision methods for classifying the images into 15 landscape categories. 
